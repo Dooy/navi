@@ -13,7 +13,7 @@
                 </a>
             </div>
             <div class="navbar-mobile-clear"></div>
-            <a href="https://github.com/hui-ho/WebStack-Laravel" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+            <!-- <a href="https://github.com/hui-ho/WebStack-Laravel" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a> -->
         </div>
     </nav>
     <div class="page-container">
@@ -30,7 +30,7 @@
                                     <blockquote>
                                         <p>这是一个开源的网址导航网站项目，您可以拿来制作自己的网址导航，也可以做与导航无关的网站。</p>
                                         </br>
-                                        <p>网站前台静态页面采用 <a href="http://viggoz.com/" target="_blank">viggoz</a> 的 <a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStack</a> 项目源码。</p>
+                                        <p>网站前台静态页面采用  项目源码。</p>
                                         <p>如果对本项目有任何建议都可以发起 issue。</p>
                                     </blockquote>
                                 </div>
@@ -59,8 +59,7 @@
                                             <br />
                                             <blockquote>
                                                 <p>
-                                                    这是一个公益项目，而且是<a href="https://github.com/hui-ho/WebStack-Laravel"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。
-                                                </p>
+                                                     介绍 </p>
                                             </blockquote>
                                         </div>
                                     </div>
@@ -75,8 +74,8 @@
             <footer class="main-footer sticky footer-type-1 fixed">
                 <div class="footer-inner">
                     <div class="footer-text">
-                        &copy; 2019
-                        <a href="/"><strong>WebStack</strong></a> design by <a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>
+                        &copy; 2023
+                        <a href="/"><strong>chatGPT导航</strong></a>  
                     </div>
                     <div class="go-up">
                         <a href="#" rel="go-top">
