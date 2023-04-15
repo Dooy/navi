@@ -53,7 +53,8 @@ return [
     */
 
     //'url' => env('APP_URL', 'http://localhost'),
-    'url' => 'https://123.lingduquan.com',
+    //'url' => 'https://123.lingduquan.com',
+    
 
     /*
     |--------------------------------------------------------------------------
