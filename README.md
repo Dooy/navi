@@ -10,12 +10,12 @@
 
 daoker 部署
 ```shell
-docker run --name dao8024 -d -p 8024:8000 -e DB_HOST=192.168.0.68 -e DB_DATABASE=nav  -e DB_USERNAME=nav  -e DB_PASSWORD=nav@2023   -v /data/app/navi:/opt/navi arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
+docker run --name dao8024 -d -p 8024:8000 -e DB_HOST=192.168.0.68 -e DB_DATABASE=nav  -e DB_USERNAME=nav  -e DB_PASSWORD=nav@2023  -e APP_URL=https://123.lingduquan.com -e APP_NAME=chatGPT    -v /data/app/navi:/opt/navi arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
 ```
 daoker 本地 部署
 
 ```shell
-docker run --name dao8024 -d -p 8024:8000 -e DB_HOST=172.17.0.1 -e DB_DATABASE=nav  -e DB_USERNAME=cikuu  -e DB_PASSWORD=cikuutest!   -v /Users/wulin/Documents/yangdaorong/www/123.daohang.com/navi:/opt/navi arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
+docker run --name dao8024 -d -p 8024:8000 -e DB_HOST=172.17.0.1 -e DB_DATABASE=nav  -e DB_USERNAME=cikuu  -e DB_PASSWORD=cikuutest! -e APP_URL=https://123.lingduquan.com -e APP_NAME=chatGPT   -v /Users/wulin/Documents/yangdaorong/www/123.daohang.com/navi:/opt/navi arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
 ```
 
 docker run --name dao -d -p 8023:8000 -e DB_HOST=172.17.0.1 -e DB_DATABASE=nav  -e DB_USERNAME=cikuu  -e DB_PASSWORD=cikuutest!   arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
