@@ -8,10 +8,14 @@
 
 ## 部署
 
-克隆代码：
+daoker 部署
+```shell
+docker run --name dao8024 -d -p 8024:8000 -e DB_HOST=192.168.0.68 -e DB_DATABASE=nav  -e DB_USERNAME=nav  -e DB_PASSWORD=nav@2023   -v /data/app/navi:/opt/navi arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
+```
+daoker 本地 部署
 
 ```shell
-git clone https://github.com/hui-ho/WebStack-Laravel.git
+docker run --name dao8024 -d -p 8024:8000 -e DB_HOST=172.17.0.1 -e DB_DATABASE=nav  -e DB_USERNAME=nav  -e DB_PASSWORD=nav@2023   -v /data/app/navi:/opt/navi arvon2014/webstack-laravel:v1.2.2    /entrypoint.sh server
 ```
 
 安装依赖：
