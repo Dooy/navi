@@ -34,7 +34,7 @@
                 <div class="footer-inner">
                     <!-- Add your copyright text here -->
                     <div class="footer-text">
-                        &copy; 2023 <b>AI网站导航</b>  <a href="/about" target="_blank" style="color: #409EFF;">欢迎申请入驻AI导航</a>
+                        &copy; 2023 <b>AI网站导航</b>  欢迎<a href="/about" target="_blank" style="color: #409EFF;">申请入驻</a>AI导航
                     </div>
                     <!-- Go to Top Link, just add rel="go-top" to any link to add this functionality -->
                     <div class="go-up">
