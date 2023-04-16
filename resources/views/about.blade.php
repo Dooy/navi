@@ -67,4 +67,16 @@ LOGO：128*128PNG<br>
         </div>
     </div>
 </body>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?449e63bf0963734cc56909febaed62a9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
 </html>
