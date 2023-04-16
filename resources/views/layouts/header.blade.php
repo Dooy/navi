@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="viggo">
-    <title>国内chatGPT镜像导航</title>
+    <title>AI网站导航</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}">
@@ -18,16 +18,16 @@
     <!-- / FB Open Graph -->
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://123.lingduquan.com">
-    <meta property="og:title" content="国内chatGPT镜像导航 免费">
-    <meta property="og:description" content="国内chatGPT镜像导航是一个国内的chatGPT镜像导航，我们提供最新的openAi模型信息和应用指南，同时汇集了各种有趣的chatbot应用示例，让用户更好地了解和使用chatGPT。">
+    <meta property="og:title" content="免费AI网站导航">
+    <meta property="og:description" content="AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了机器学习、自然语言处理、数据分析、智能算法等多个领域">
     <meta property="og:image" content="{{ asset('img/webstack_banner_cn.png') }}">
     <meta property="og:site_name" content="chatGPT镜像, 国内chatGPT,chatGPT导航">
     <!-- / Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="国内chatGPT镜像导航">
-    <meta name="twitter:description" content="国内chatGPT镜像导航是一个国内的chatGPT镜像导航，我们提供最新的openAi模型信息和应用指南，同时汇集了各种有趣的chatbot应用示例，让用户更好地了解和使用chatGPT。">
+    <meta name="twitter:title" content="AI网站导航">
+    <meta name="twitter:description" content="AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了机器学习、自然语言处理、数据分析、智能算法等多个领域">
     <meta property="og:image" content="{{ asset('img/webstack_banner_cn.png') }}">
 
-    <meta name="keywords" content="免费, chatGPT镜像, 国内chatGPT,chatGPT导航"/>
-	<meta name="description" content="国内chatGPT镜像导航是一个国内的chatGPT镜像导航，我们提供最新的openAi模型信息和应用指南，同时汇集了各种有趣的chatbot应用示例，让用户更好地了解和使用chatGPT。"/>
+    <meta name="keywords" content="免费, chatGPT镜像, 国内chatGPT,chatGPT导航,AI, 网站导航, 人工智能技术, 智能算法, 机器学习, 自然语言处理, 数据分析"/>
+	<meta name="description" content="AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了机器学习、自然语言处理、数据分析、智能算法等多个领域。我们致力于为广大ai爱好者提供最全面、最实用的网络资源，通过分类整理和搜索推荐等方式，让每个用户都能轻松找到自己需要的信息与工具。我们的任务是为您节省时间、提高效率，让您在复杂多变的ai世界中寻找方向，更快地学习、创新和发展。"/>
 </head>
