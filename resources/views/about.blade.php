@@ -23,49 +23,27 @@
                 <div class="col-md-12">
                     <div class="panel panel-default">
                         <!-- 关于项目 -->
-                        <h4 class="text-gray">关于项目</h4>
+                        <h4 class="text-gray">关于AI网站道航</h4>
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-sm-12">
                                     <blockquote>
-                                        <p>这是一个开源的网址导航网站项目，您可以拿来制作自己的网址导航，也可以做与导航无关的网站。</p>
+                                        <p>本站点致力于收集各类实用的AI站点，帮助用户提高工作和学习效率。点击网站名后会跳转至外部网站，如发现有有不适内容或有侵权形为：
+请发送邮件至：1275244819@qq.com,我们审核后，会第一时间将网站下线。</p><p>
+如果要投稿,格式如下：<br>
+标题：网站名+投稿<br>
+网站名:<br>
+分类：<br>
+介绍：简单描述网站亮点，100字左右<br>
+LOGO：128*128PNG<br>
+链接：<br>
+写完后，发送至：1275244819@qq.com</p>
                                         </br>
-                                        <p>网站前台静态页面采用  项目源码。</p>
-                                        <p>如果对本项目有任何建议都可以发起 issue。</p>
+                                        
                                     </blockquote>
                                 </div>
                             </div>
-                            <!-- 关于作者 -->
-                            <h4 class="text-gray">关于作者</h4>
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.viggoz.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.viggoz.com/">
-                                        <div class="xe-comment-entry">
-                                            <a class="xe-user-img">
-                                                <img src="https://avatars1.githubusercontent.com/u/28501148?s=460&v=4" class="img-circle" width="40">
-                                            </a>
-                                            <div class="xe-comment">
-                                                <a href="#" class="xe-user-name overflowClip_1">
-                                                    <strong>Designer. hui-ho.</strong>
-                                                </a>
-                                                <p class="overflowClip_2"> hui-ho@outlook.com</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <br />
-                                            <blockquote>
-                                                <p>
-                                                     介绍 </p>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <br>
-                                </div>
-                            </div>
+                    
                         </div>
                     </div>
                 </div>
@@ -75,7 +53,7 @@
                 <div class="footer-inner">
                     <div class="footer-text">
                         &copy; 2023
-                        <a href="/"><strong>chatGPT导航</strong></a>  
+                        <a href="/"><B>AI网站导航</B></a>  
                     </div>
                     <div class="go-up">
                         <a href="#" rel="go-top">
