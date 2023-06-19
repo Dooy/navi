@@ -4,9 +4,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="viggo">
     <title>设计酷站导航</title>
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}">
+    <meta name="keywords" content="Midjourney, 在线画图, AI绘图, AI绘画, 云图">
+    <meta name="description" content="计酷站导航是一个专面向设计师的导航站，涵盖了UI、交互、素材等多个领域">
+    <link rel="shortcut icon" href="https://static.aitutu.cc/res/img/open.png">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Arimo:400,700,400italic">
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     <script src="{{ mix('js/app.js') }}"></script>
