@@ -23,25 +23,13 @@
                 <div class="col-md-12">
                     <div class="panel panel-default">
                         <!-- 关于项目 -->
-                        <h4 class="text-gray">关于AI网站道航</h4>
+                        <h4 class="text-gray">关于设计酷站导航</h4>
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-sm-12">
-                                <p>AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了文本、图片、视频、音频等多个领域。
-                                        <br>如发现有不适内容或有侵权行为： 请发送邮件至：1275244819@qq.com,我们审核后，会第一时间将网站下线。</p>
-                                    <blockquote>
-                                        <p>
-如果要投稿,格式如下：<br>
-标题：网站名+投稿<br>
-网站名:<br>
-分类：<br>
-介绍：简单描述网站亮点，100字左右<br>
-LOGO：128*128PNG<br>
-链接：<br>
-写完后，发送至：1275244819@qq.com</p>
-                                        </br>
-                                        
-                                    </blockquote>
+                                <p>设计酷站导航是一个专面向设计师的导航站，涵盖了UI、交互、素材等多个领域。
+<br>如发现有不适内容或有侵权行为： 请发送邮件至：1275244819@qq.com,我们审核后，会第一时间将网站下线。
+<br>如有效换资源需要，欢迎加QQ：1275244819</p> 
                                 </div>
                             </div>
                     

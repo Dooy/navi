@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="viggo">
-    <title>AI网站导航</title>
+    <title>设计酷站导航</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}">
@@ -18,16 +18,16 @@
     <!-- / FB Open Graph -->
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://123.lingduquan.com">
-    <meta property="og:title" content="免费AI网站导航">
-    <meta property="og:description" content="AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了机器学习、自然语言处理、数据分析、智能算法等多个领域">
+    <meta property="og:title" content="免费设计酷站导航">
+    <meta property="og:description" content="计酷站导航是一个专面向设计师的导航站，涵盖了UI、交互、素材等多个领域">
     <meta property="og:image" content="{{ asset('img/webstack_banner_cn.png') }}">
-    <meta property="og:site_name" content="chatGPT镜像, 国内chatGPT,chatGPT导航">
+    <meta property="og:site_name" content="Midjourney, 在线画图, AI绘图, AI绘画, 云图">
     <!-- / Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="AI网站导航">
-    <meta name="twitter:description" content="AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了机器学习、自然语言处理、数据分析、智能算法等多个领域">
+    <meta name="twitter:title" content="设计酷站导航">
+    <meta name="twitter:description" content="计酷站导航是一个专面向设计师的导航站，涵盖了UI、交互、素材等多个领域">
     <meta property="og:image" content="{{ asset('img/webstack_banner_cn.png') }}">
 
-    <meta name="keywords" content="免费, chatGPT镜像, 国内chatGPT,chatGPT导航,AI, 网站导航, 人工智能技术, 智能算法, 机器学习, 自然语言处理, 数据分析"/>
-	<meta name="description" content="AI网站导航是一个专门收集各类AI相关网站的导航站，涵盖了机器学习、自然语言处理、数据分析、智能算法等多个领域。我们致力于为广大ai爱好者提供最全面、最实用的网络资源，通过分类整理和搜索推荐等方式，让每个用户都能轻松找到自己需要的信息与工具。我们的任务是为您节省时间、提高效率，让您在复杂多变的AI世界中寻找方向，更快地学习、创新和发展。"/>
+    <meta name="keywords" content="Midjourney, 在线画图, AI绘图, AI绘画, 云图"/>
+	<meta name="description" content="计酷站导航是一个专面向设计师的导航站，涵盖了UI、交互、素材等多个领域"/>
 </head>
