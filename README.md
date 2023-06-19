@@ -1,5 +1,7 @@
 # WebStack-Laravel
 
+这个设计是为 sheji.zahei.com 来做的
+
 一个开源的网址导航网站项目，具备完整的前后台，您可以拿来制作自己的网址导航。
 
 ![首页](public/screen/01.png)
