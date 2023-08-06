@@ -4,7 +4,42 @@
 
 ![首页](public/screen/01.png)
 
+## 测试
+```mermaid
+graph LR
+    A(用户)
+    A --->|请求| B(One API)
+    B -->|中继请求| C(OpenAI)
+    B -->|中继请求| D(Azure)
+    B -->|中继请求| E(其他下游渠道)
+```
 
+
+```mermaid
+gantt
+    section Section
+    Completed :done,    des1, 2014-01-06,2014-01-08
+    Active        :active,  des2, 2014-01-07, 3d
+    Parallel 1   :         des3, after des1, 1d
+    Parallel 2   :         des4, after des1, 1d
+    Parallel 3   :         des5, after des3, 1d
+    Parallel 4   :         des6, after des4, 1d
+ 
+```
+
+```mermaid
+sequenceDiagram
+Title: 分析过程图
+user->>PHPsever: 提交分析
+PHPsever->>MQ(dsk_rpc_v2): 通道anly_process_v2
+MQ(dsk_rpc_v2)->>引擎分析: 分析
+引擎分析->>MQ(process): 分析过程中数据
+引擎分析->>MQ(mq_name):分析完成回填到队列mq_name(变量)
+MQ(process)->>icomet:提醒（分析过程）
+MQ(mq_name)->>icomet:提醒(分析完成)
+icomet-->>user:提示用户通过js
+
+```
 
 ## 部署
 
