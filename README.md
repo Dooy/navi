@@ -2,7 +2,7 @@
 
 一个开源的网址导航网站项目，具备完整的前后台，您可以拿来制作自己的网址导航。
 
-![首页](public/screen/01.png)
+ 
 
 ## 测试
 ```mermaid
@@ -25,6 +25,19 @@ gantt
     Parallel 3   :         des5, after des3, 1d
     Parallel 4   :         des6, after des4, 1d
  
+```
+
+```mermaid
+graph TD;
+    A(user)
+    A --->|提交分析| B(PHPsever)
+    B -->|通道anly_process_v2| C(MQ dsk_rpc_v2)
+    C -->|分析| D(引擎分析)
+    D -->|分析过程中数据| E(MQ process )
+    D -->|分析完成回填到队列mq_name| F(MQ mq_name )
+    E -->|分析过程| G(icomet)
+    F -->|分析完成| G(icomet)
+    G -->|提示用户通过js| A(user) 
 ```
 
 ```mermaid
